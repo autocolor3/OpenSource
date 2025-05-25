@@ -1,1 +1,1 @@
-https://imgur.com/1HVmhRI
+https://i.imgur.com/1HVmhRI.gif
