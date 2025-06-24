@@ -1,12 +1,4 @@
---[[
-
-    ? ERLC Bypass ?
-    - @_color3 | #1 pornstar
-
-    Created for public research, use at own risk.
-
---]]
-
+-- client bypass (not for serversided movement checks)
 local script_context = game:GetService("ScriptContext")
 local connections = getconnections(script_context.Error)
 
