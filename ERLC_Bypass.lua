@@ -2,7 +2,7 @@
 local script_context = game:GetService("ScriptContext")
 local connections = getconnections(script_context.Error)
 
-for _, c in pairs(connections) do
+for _, c in connections do
 	local func = c.Function
 	if func then
 		local src = getinfo(func).short_src
