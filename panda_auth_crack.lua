@@ -1,7 +1,7 @@
 --[[
 
   Recently ive seen alot of scripts using this shitty auth called 'Panda Auth', its been pretty popular on youtube so I decided to make a patch for it.
-  Run the script you want t bypass, then run this, this will hook the auth function so when you press the submit key button it will always work, no need for a valid key.
+  Run the script you want to bypass, then run this, this will hook the auth function so when you press the submit key button it will always work, no need for a valid key.
   
   Nice auth 👍
 
